@@ -23,6 +23,18 @@ Permite registrar gastos, acompanhar o saldo disponível e manter o controle men
 
 ---
 
+## 📌Funcionalidades futuras📌 (em planejamento)
+
+**Resumo separado de gastos por categoria (único vs regular)**
+**Exportação para .csv ou .xlsx**
+**Reset mensal automático**
+**Interface gráfica com Tkinter ou PyQt (versão desktop)**
+
+## Autor
+Vinícius Jerke
+LinkedIn: https://www.linkedin.com/in/viniciusjerke
+Projeto desenvolvido como parte do meu aprendizado prático em programação com Python.
+
 ## 🚀Como executar🚀
 
 1. Clone o repositório:
